@@ -1,0 +1,2 @@
+# salah-prototype
+This is fun activity. Salah is also called namaz in Islam. It's an awesome example of structured entity, as such given deep thinking one will commence to understand its disciplined structuredness. 
