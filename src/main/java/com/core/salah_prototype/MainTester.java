@@ -9,10 +9,11 @@ import com.core.salah_prototype.time_based.MagribNamaz;
 public class MainTester{
 
 	public static void main( String[] args ) {
-		allInDay();
+		
+		singleDaySimulation();
 	}
 
-	private static void allInDay() {
+	private static void singleDaySimulation() {
 		FajrNamaz.adaNamaz();
 
 		JuhrNamaz.adaNamaz();
