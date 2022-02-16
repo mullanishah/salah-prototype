@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.core.salah_prototype.time_based;
 
 import com.core.salah_prototype.rakat_based.FourRakatNamaz;
