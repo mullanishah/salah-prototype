@@ -1,5 +1,7 @@
 # salah-prototype
-This is a fun activity. Salah is also called namaz in Islam. It's an awesome example of structured entity, as such given deep thinking one will commence to understand its disciplined structuredness. 
+This is a fun activity. Salah is also called namaz in Islam. It's an awesome example of structured entity, as such given deep thinking one will commence to understand its disciplined structuredness. Therefore, it's an attempt to programmatically implement Salah in simulated manner.
+
+Also, In order to flex the technical abilities I have crafted this engineering solution in Maven project (J2EE+Maven+Git) 
 
 Implemention done in following order: <br>
 1)Salah prototype<br>
