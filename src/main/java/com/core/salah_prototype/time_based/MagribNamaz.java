@@ -19,7 +19,7 @@ public class MagribNamaz {
 	}
 	
 	public static void adaNamaz() {
-		TwoRakatNamaz magrib_sunnat = new TwoRakatNamaz(2, "Fajr", "Sunnat");
+		TwoRakatNamaz magrib_sunnat = new TwoRakatNamaz(2, "Magrib", "Sunnat");
 		System.out.println("-----------------------XXXX--------------------");
 		ThreeRakatNamaz magrib = new ThreeRakatNamaz(3, "Magrib", "Farz");
 		System.out.println("-----------------------XXXX--------------------");
